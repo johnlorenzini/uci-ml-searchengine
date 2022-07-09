@@ -1,6 +1,6 @@
 # NLP for Search Engine Optimization
 
-## :trophy: [Awarded "Most Impactful" at UC Irvine's Machine Learning Hackathon](https://www.ics.uci.edu/community/news/view_news?id=2184)
+** :trophy: [Awarded "Most Impactful" at UC Irvine's Machine Learning Hackathon](https://www.ics.uci.edu/community/news/view_news?id=2184) **
 
 Enhances an efficient keyword search model using a companion Latent Dirichlet Allocation model.
 
